@@ -23,3 +23,4 @@ Dataset: Taxi Fare Records (Yellow Taxi Dataset) or Taxi Fare Dataset (CSV)
 Format: CSV / Excel
 5. Screenshot/Dashboard
 (https://github.com/9990-M/taxi-fare-analaysis/blob/main/taxi%20fare.png)
+(https://github.com/9990-M/taxi-fare-analaysis/blob/main/taxi1.pbix)
